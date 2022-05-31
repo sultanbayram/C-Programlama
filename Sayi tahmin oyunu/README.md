@@ -1,0 +1,1 @@
+C programlama dilinde math kütüphanesinin kullanımda pratikliğini sağlamak adına sayı tahmin ettirmeye çalışan bir uygulamadır. Doğru sonuç bulunduğunda kaçıncı tahminde bulduğunu yazar. 
